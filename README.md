@@ -23,3 +23,6 @@ Here's the list of cross compilers available in this repository:
 ## Feedback
 
 If you notice that any cross compilers are missing from this list, please [create an issue](https://github.com/Hexoral/Cross-Compilers/issues) on this GitHub repo.
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23512AC7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
